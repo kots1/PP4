@@ -1,0 +1,26 @@
+2021-01-05 22:08:35 INFO  AmmunitionCollection:69 - get array of ammunition from border :[290,360]
+2021-01-05 22:08:55 INFO  Main:32 - read array of ammunition from file
+2021-01-05 22:08:55 INFO  MainMenu:31 - Menu items create
+2021-01-05 22:09:02 INFO  MainMenu:35 - Choose help in menu
+2021-01-05 22:09:08 INFO  MainMenu:35 - Choose add in menu
+2021-01-05 22:09:19 INFO  Main:32 - read array of ammunition from file
+2021-01-05 22:09:19 INFO  MainMenu:31 - Menu items create
+2021-01-05 22:09:25 INFO  MainMenu:35 - Choose print in menu
+2021-01-05 22:09:25 INFO  AmmunitionCollection:53 - print array of ammunition
+2021-01-05 22:09:28 INFO  MainMenu:35 - Choose exit in menu
+2021-01-05 22:09:28 INFO  AmmunitionCollection:106 - save array in file
+2021-01-05 22:11:57 INFO  AmmunitionCollection:69 - get array of ammunition from border :[290,360]
+2021-01-05 22:13:06 INFO  AmmunitionCollection:69 - get array of ammunition from border :[290,360]
+2021-01-05 22:18:27 INFO  AmmunitionCollection:69 - get array of ammunition from border :[290,360]
+2021-01-06 10:35:29 INFO  AmmunitionCollection:69 - get array of ammunition from border :[290,360]
+2021-02-04 19:42:55 INFO  Main:32 - read array of ammunition from file
+2021-02-04 19:42:55 INFO  MainMenu:31 - Menu items create
+2021-02-04 19:43:00 INFO  MainMenu:35 - Choose help in menu
+2021-02-04 19:43:08 INFO  MainMenu:35 - Choose add in menu
+2021-02-04 19:43:13 INFO  AmmunitionCollection:125 - create ammunition
+2021-02-04 19:43:13 INFO  AmmunitionCollection:166 - create armor
+2021-02-04 19:43:37 INFO  AmmunitionCollection:45 - add new ammunition in array
+2021-02-04 19:43:42 INFO  MainMenu:35 - Choose help in menu
+2021-02-04 19:43:58 INFO  MainMenu:35 - Choose print in menu
+2021-02-04 19:43:58 INFO  AmmunitionCollection:53 - print array of ammunition
+2021-02-04 19:44:14 INFO  MainMenu:35 - Choose knight in menu
